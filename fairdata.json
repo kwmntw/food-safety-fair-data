@@ -1,0 +1,9 @@
+{
+"@type": "AflatoxinSample",
+"sampleID": "MAL001",
+"crop": "Groundnut",
+"country": "Mali",
+"treatment": "Treated",
+"aflatoxin": 12.5,
+"unit": "ppb"
+}
